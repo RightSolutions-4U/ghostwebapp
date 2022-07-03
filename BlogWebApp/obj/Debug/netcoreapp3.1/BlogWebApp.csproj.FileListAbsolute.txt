@@ -12,13 +12,6 @@ D:\WorkNew\IrshadKhanFreelance\project21\BlogWebApp\BlogWebApp\obj\Debug\netcore
 D:\WorkNew\IrshadKhanFreelance\project21\BlogWebApp\BlogWebApp\obj\Debug\netcoreapp3.1\BlogWebApp.TagHelpers.input.cache
 D:\WorkNew\IrshadKhanFreelance\project21\BlogWebApp\BlogWebApp\obj\Debug\netcoreapp3.1\BlogWebApp.TagHelpers.output.cache
 D:\WorkNew\IrshadKhanFreelance\project21\BlogWebApp\BlogWebApp\obj\Debug\netcoreapp3.1\BlogWebApp.RazorCoreGenerate.cache
-D:\WorkNew\IrshadKhanFreelance\project21\BlogWebApp\BlogWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
-D:\WorkNew\IrshadKhanFreelance\project21\BlogWebApp\BlogWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-D:\WorkNew\IrshadKhanFreelance\project21\BlogWebApp\BlogWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
-D:\WorkNew\IrshadKhanFreelance\project21\BlogWebApp\BlogWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
-D:\WorkNew\IrshadKhanFreelance\project21\BlogWebApp\BlogWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-D:\WorkNew\IrshadKhanFreelance\project21\BlogWebApp\BlogWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
-D:\WorkNew\IrshadKhanFreelance\project21\BlogWebApp\BlogWebApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
 D:\WorkNew\IrshadKhanFreelance\project21\BlogWebApp\BlogWebApp\obj\Debug\netcoreapp3.1\BlogWebApp.RazorTargetAssemblyInfo.cache
 D:\WorkNew\IrshadKhanFreelance\project21\BlogWebApp\BlogWebApp\obj\Debug\netcoreapp3.1\BlogWebApp.RazorTargetAssemblyInfo.cs
 D:\WorkNew\IrshadKhanFreelance\project21\BlogWebApp\BlogWebApp\obj\Debug\netcoreapp3.1\BlogWebApp.dll
@@ -36,3 +29,13 @@ D:\WorkNew\IrshadKhanFreelance\project21\BlogWebApp\BlogWebApp\bin\Debug\netcore
 D:\WorkNew\IrshadKhanFreelance\project21\BlogWebApp\BlogWebApp\obj\Debug\netcoreapp3.1\BlogWebApp.Views.pdb
 D:\WorkNew\IrshadKhanFreelance\project21\BlogWebApp\BlogWebApp\obj\Debug\netcoreapp3.1\BlogWebApp.genruntimeconfig.cache
 D:\WorkNew\IrshadKhanFreelance\project21\BlogWebApp\BlogWebApp\obj\Debug\netcoreapp3.1\BlogWebApp.csproj.CopyComplete
+D:\WorkNew\IrshadKhanFreelance\project21\BlogWebApp\BlogWebApp\bin\Debug\netcoreapp3.1\Microsoft.Json.Schema.ToDotNet.dll
+D:\WorkNew\IrshadKhanFreelance\project21\BlogWebApp\BlogWebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\WorkNew\IrshadKhanFreelance\project21\BlogWebApp\BlogWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Error.cshtml.g.cs
+D:\WorkNew\IrshadKhanFreelance\project21\BlogWebApp\BlogWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Privacy.cshtml.g.cs
+D:\WorkNew\IrshadKhanFreelance\project21\BlogWebApp\BlogWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\WorkNew\IrshadKhanFreelance\project21\BlogWebApp\BlogWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\WorkNew\IrshadKhanFreelance\project21\BlogWebApp\BlogWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\WorkNew\IrshadKhanFreelance\project21\BlogWebApp\BlogWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\WorkNew\IrshadKhanFreelance\project21\BlogWebApp\BlogWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\WorkNew\IrshadKhanFreelance\project21\BlogWebApp\BlogWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index1.cshtml.g.cs
