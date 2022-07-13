@@ -465,7 +465,7 @@
             </div>
 
         </article>*@
-            <article class="post-card post tag-blog ">
+            @*<article class="post-card post tag-blog ">
 
                 <a class="post-card-image-link" href="https://services.assemblysoft.com/simple-git-branching-strategy-for-release-cycles/">
                     <img class="post-card-image" srcset="/images/aaron-burden-pn2aVMO0lvE-unsplash.jpg 300w,
@@ -510,7 +510,7 @@
 
                 </div>
 
-            </article>
+            </article>*@
             @foreach (var i in Model.posts)
             {
                 <article class="post-card post tag-blog ">
@@ -535,7 +535,8 @@
 
                             <section class="post-card-excerpt">
                                 <p>
-                                    @i.excerpt
+                                    @i.excerpt.ToString().Substring(0, (i.excerpt.Length > 192) ? 192 : i.excerpt.Length)
+
                                 </p>
                             </section>
 
