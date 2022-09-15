@@ -24,6 +24,19 @@ namespace BlogWebApp.Contoller
             root = JsonConvert.DeserializeObject<Rootobject>(FeaturedProduct);
             return View(root);
         }
+        public async Task<ActionResult> getdetails(string Id)
+        {
+            Rootobject root = new Rootobject();
+            var clientF = new HttpClient();
+
+            var urlF = "https://demo.ghost.io/ghost/api/content/posts/" + Id + "/?key=22444f78447824223cefc48062";
+            /*var urlF = env + "/api/Products/GetFeatuedProducts";*/
+
+            var responseF = await clientF.GetAsync(urlF);
+            var FeaturedProduct = responseF.Content.ReadAsStringAsync().Result;
+            root = JsonConvert.DeserializeObject<Rootobject>(FeaturedProduct);
+            return View("",root);
+        }
     }
 }
 
